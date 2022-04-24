@@ -1,0 +1,25 @@
+a {
+    text-decoration: none;
+}
+
+.column-2 {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.color-green {
+    color: #00a65a;
+}
+
+.color-blue {
+    color: #0073b7;
+}
+
+.color-golden {
+    color: #f39c12;
+}
+.color-white {
+    color: #fff;
+    background-color: black;
+}
